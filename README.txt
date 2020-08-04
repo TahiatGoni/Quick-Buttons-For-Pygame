@@ -1,4 +1,6 @@
 created by: Tahiat Goni
+Uses pygame library: https://www.pygame.org/news
+
 
 This is a very simple to use tool
 
