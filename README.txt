@@ -16,6 +16,13 @@ Using the setColor((R,G,B)) method, button color can be set
 
 Using the setTextColor((R,G,B)) method, text color can be set
 
+New Update:
+
+Added new TextBox class:
+  works similar to a button but can take user input using GetInput method
+  
+
+
 
 
 
